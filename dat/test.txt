@@ -1,0 +1,17 @@
+algoBFS("dat/bb.map",(1,1),(10,10))
+algoDijkstra("dat/bb.map",(1,1),(10,10))
+algoAstar("dat/bb.map",(1,1),(10,10))
+Glouton("dat/bb.map",(1,1),(10,10))
+
+
+algoBFS("dat/maze512-1-0.map",(2,2),(100,10))
+algoDijkstra("dat/maze512-1-0.map",(2,2),(100,10))
+algoAstar("dat/maze512-1-0.map",(2,2),(100,10))
+Glouton("dat/maze512-1-0.map",(2,2),(100,10))
+
+
+algoBFS("dat/Berlin_0_256.map",(2,2),(256,256))
+algoDijkstra("dat/Berlin_0_256.map",(2,2),(256,256))
+algoAstar("dat/Berlin_0_256.map",(2,2),(256,256))
+Glouton("dat/Berlin_0_256.map",(2,2),(256,256))
+
