@@ -22,11 +22,14 @@ Selon que la case à visiter a pour valeur
           autrement coutMvmt ← 1
           '@' et 'T' équivaut à un mur  
 
-Il existe 4 algorithmes
+Il existe 7 algorithmes
 algoBFS(fname, D, A)
 algoDijkstra(fname, D, A)
 algoGlouton(fname, D, A)
 algoAstar(fname, D, A)
+AVarianteUne(fname, D, A)
+AVarianteDeux(fname, D, A)
+AVarianteTrois(fname, D, A)
 
 avec comme paramètres :
 • fname | type : String | exemple : "didactic.map"      (chemin du fichier .map)
